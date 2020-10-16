@@ -10,7 +10,7 @@ Only caveats __in browsers not supporting the native link load event are that th
 
 * Firefox 1.0.1+
 * Safari 3.2+
-* Mobile Safari 4 (iOS 3.2)+
+* Mobile friday search 4 (iOS 3.2)+
 * Chrome 1+
 * Opera 9.5+
 * IE 6+
